@@ -1,4 +1,4 @@
-# MotiQuotes
+## MotiQuotes
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 MotiQuotes is a Python-based desktop application that aims to inspire and motivate users through a collection of random motivational quotes. The application features a simple and intuitive graphical user interface that allows users to easily navigate and interact with the software. Additionally, MotiQuotes provides users with the option to add new quotes to the existing collection and generate a fresh batch of quotes. With its user-friendly interface and extensive quote database, MotiQuotes is an excellent tool for anyone looking to boost their motivation and improve their outlook on life.
 ________________________________________________________________________________________________________________________________________________
