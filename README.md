@@ -12,6 +12,6 @@ ________________________________________________________________________________
 8. Wait for the repository to download. Once complete, you will have a local copy of the repository on your computer.
 ________________________________________________________________________________________________________________________________________________
 ### Why did i do this Project?
-> # This project was made by me to expirement with the PyGame Library.
-> >
+> ### This project was made by me, for me to expirement with the PyGame Library.
+> 
 I did learn a lot from this project and i actually enjoyed making this! I will of course look into more python libraries soon!
