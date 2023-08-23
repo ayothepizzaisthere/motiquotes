@@ -26,6 +26,6 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________________________________________________
 ### Why did i do this Project?
-> ### This project was made by me, for me to expirement with the PyGame Library.
+> ### This project was made to test out the PyGame Library
 > 
 I did learn a lot from this project and i actually enjoyed making this! I will of course look into more python libraries soon!
